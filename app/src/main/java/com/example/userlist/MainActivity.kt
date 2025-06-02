@@ -124,6 +124,7 @@ fun User() {
             )
             Spacer(modifier = androidx.compose.ui.Modifier.width(4.dp))
             Text(text = "More", color = Color.White)
+
                     // Icons.Filled.ChatBubble,
                     // Icons.Filled.Groups,
                     //Icons.Filled.Person,
